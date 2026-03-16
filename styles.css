@@ -1,5 +1,4 @@
 
-
 :root {
   --text-color: #1a1c20;
   --link-color: #4a76ee;
@@ -132,6 +131,14 @@ nav .right a:hover {
   color: var(--brand-color);
   font-weight: 500;
   margin-bottom: 18px;
+}
+
+
+/* CENTERED TEXT SECTION (Mijn aanpak) */
+.text-section-inner {
+  max-width: 860px;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .text-section p {
